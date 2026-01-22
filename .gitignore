@@ -1,0 +1,16 @@
+# local scripts & data
+data.txt
+query.sh
+run.sh
+update.sh
+generate_html.py
+server.py
+docker-compose.yml
+Dockerfile
+
+# python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
